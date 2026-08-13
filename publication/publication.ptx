@@ -194,8 +194,8 @@
       <!--<asymptote links="yes"/>-->
 
     <!-- Feedback button can be added with a link to an email or form -->
-      <!--<feedback href="mailto:youraddress@yourUni.edu"/>-->
-
+      <feedback href="mailto:ormsbyk@reed.edu"/>
+      
     <!-- Magic IDs identify HTML pages to analytics services   -->
     <!-- Presence implies relevant Javascript will be added    -->
     <!-- StatCounter requires both values to be set            -->

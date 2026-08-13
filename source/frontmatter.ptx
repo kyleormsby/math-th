@@ -6,13 +6,8 @@
   <bibinfo>
     <!-- TODO: add the student authors as additional <author> blocks. -->
     <author>
-      <personname>Kyle Ormsby</personname>
-      <department>Department of Mathematics</department>
-      <institution>Reed College</institution>
+      <personname>Reed College Department of Mathematics &amp; Statistics</personname>
     </author>
-    <date>
-      Last Updated: <today />
-    </date>
   </bibinfo>
 
   <!-- This displays the title page information -->
@@ -21,10 +16,10 @@
   </titlepage>
 
   <preface xml:id="preface-about">
-    <title>About Math Trailhead</title>
+    <title>About the Math Trailhead</title>
 
     <p>
-      <em>Math Trailhead</em> is a self-paced review of the algebra,
+      The <em>Math Trailhead</em> is a self-paced review of the algebra,
       functions, and trigonometry that Reed's calculus sequence assumes.
       It is organized by topic rather than by course, so you can start
       wherever you feel shaky and work outward from there.
@@ -38,10 +33,11 @@
       this is a place to practice, not an assignment.
     </p>
 
-    <!-- TODO: replace with the right contact address before announcing. -->
     <p>
       Corrections and suggestions are welcome. If a problem renders
-      strangely, or a correct answer is marked wrong, please let us know.
+      strangely, or a correct answer is marked wrong, please contact
+      Kyle Ormsby at <email>ormsbyk@reed.edu</email>. There is also a
+      <q>Feedback</q> button on every page.
     </p>
   </preface>
 
