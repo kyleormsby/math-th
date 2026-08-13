@@ -11,13 +11,9 @@
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
 
-    <chapter xml:id="course-documents">
-      <title>Course Documents</title>
-
-      <!-- Course syllabus -->
-      <xi:include href="./syllabus/syllabus.ptx" />
-      <!-- Other documents could go here, like a schedule, project description, etc. -->
-    </chapter>
+    <!-- The "Course Documents" chapter and its syllabus were removed: this is a -->
+    <!-- standalone review resource, not a course site. The template syllabus is -->
+    <!-- still at source/syllabus/syllabus.ptx, unused, if it is ever wanted.    -->
 
     <chapter xml:id="functions">
       <title>Functions</title>

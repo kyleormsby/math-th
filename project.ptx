@@ -10,8 +10,10 @@
     <!-- auto-generated landing page. If you later want to publish the PDF or    -->
     <!-- the slide decks alongside the book, give each target a deploy-dir       -->
     <!-- again and PreTeXt will build the landing page for you.                  -->
+    <!-- The custom xsl auto-activates WeBWorK problems as they scroll into    -->
+    <!-- view, instead of making readers click "Activate" on each one.         -->
     <target name="course" source="main.ptx" format="html"
-            publication="publication.ptx" />
+            publication="publication.ptx" xsl="custom-html.xsl" />
     <target name="print" source="main.ptx" format="pdf"
             output-filename="course.pdf" publication="publication.ptx" />
 
