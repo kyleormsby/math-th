@@ -1,3 +1,27 @@
+This repository combines two things with different provenance.
+
+1. THE PROJECT SCAFFOLDING
+   The PreTeXt project structure, build configuration, and workflow files
+   originate from Oscar Levin's PreTeXt course template and remain under
+   the MIT License reproduced below.
+
+2. THE COURSE CONTENT
+   The prose, section introductions, and the selection and arrangement of
+   exercises under source/ are Copyright (c) 2026 Kyle Ormsby and
+   contributors, Reed College.
+
+   TODO: choose a license for the content. A Creative Commons license
+   (CC BY-SA 4.0 or CC BY-NC-SA 4.0) is the usual choice for open
+   textbooks, and Runestone Academy requires an open license -- either
+   GNU-FDL or Creative Commons -- if the book is ever hosted there.
+   Worth confirming with Reed before announcing this publicly.
+
+   The WeBWorK problems themselves are not part of this repository. They
+   are referenced by path into the Open Problem Library and carry their
+   own licenses from their original authors.
+
+--------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2026 Oscar Levin

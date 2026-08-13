@@ -4,8 +4,14 @@
 <project ptx-version="2">
   <targets>
     <!-- Main course for html or pdf -->
+    <!-- No deploy-dir: with a single deployable target the CLI stages this      -->
+    <!-- target's output at the root of the site, so the book lands at           -->
+    <!-- https://<host>/ instead of https://<host>/course/ behind an             -->
+    <!-- auto-generated landing page. If you later want to publish the PDF or    -->
+    <!-- the slide decks alongside the book, give each target a deploy-dir       -->
+    <!-- again and PreTeXt will build the landing page for you.                  -->
     <target name="course" source="main.ptx" format="html"
-            publication="publication.ptx" deploy-dir="course" />
+            publication="publication.ptx" />
     <target name="print" source="main.ptx" format="pdf"
             output-filename="course.pdf" publication="publication.ptx" />
 

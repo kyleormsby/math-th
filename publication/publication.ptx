@@ -172,7 +172,8 @@
       <!--<calculator model="geogebra-classic" activecode="python" />-->
 
     <!-- Set the base URL of where the online version is hosted to have links in other formats -->
-      <!-- <baseurl href="https://changetomywebsite.org"/> -->
+    <!-- Change this if/when the book moves to a Reed-hosted URL. -->
+      <baseurl href="https://kyleormsby.github.io/math-th/"/>
 
     <!-- Control behavior of online WeBWorK, per type: -->
       <webwork
@@ -211,9 +212,21 @@
   </epub>
 
 
-  <!-- To use WeBWorK, you need a server.  -->
-    <!-- <webwork server="https://webwork-ptx.aimath.org" /> -->
-    <!-- @course, @coursepassword, @user, and @userpassword can also be set. -->
+  <!-- To use WeBWorK, you need a server.                                        -->
+  <!--                                                                           -->
+  <!-- PROTOTYPE: AIM's public PreTeXt server. This is the PreTeXt default and    -->
+  <!-- is already configured, so it requires nothing from us. Caveats: it carries -->
+  <!-- no published uptime or acceptable-use guarantee, and nothing a reader does -->
+  <!-- is saved or graded anywhere.                                               -->
+  <!--                                                                            -->
+  <!-- TO SWITCH TO REED'S WEBWORK SERVER: change @server to Reed's webwork2 URL  -->
+  <!-- (include the protocol, no trailing slash, webwork2 version 2.19 or later). -->
+  <!-- That server also needs CORS enabled and a locked-down guest course; see    -->
+  <!-- docs/webwork-server-setup.md in this repo for what to ask the admin for.   -->
+    <webwork server="https://webwork-ptx.aimath.org" />
+    <!-- @course, @coursepassword, @user, and @userpassword can also be set.      -->
+    <!-- All four default to "anonymous"; set them only if Reed's guest course    -->
+    <!-- uses different credentials.                                              -->
     <!-- You can also set how tasks are revealed for webwork problems using the @task-reveal attribute on the above-->
 
 </publication>
