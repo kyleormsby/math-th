@@ -41,4 +41,16 @@
     </p>
   </preface>
 
+  <acknowledgement>
+    <title>Acknowledgments</title>
+
+    <p>
+      <em>Math Trailhead</em> owes its existence to Caleb Fishman Miller
+      and Aisha Mandhro, who developed its initial version over a summer
+      at Reed: gathering and organizing several hundred WeBWorK problems
+      and building them into the PreTeXt source this site is generated
+      from. Their work is the foundation of everything here.
+    </p>
+  </acknowledgement>
+
 </frontmatter>
