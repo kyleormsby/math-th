@@ -14,8 +14,17 @@
     <!-- Level at which are html files generated (chapter/section/etc): -->
       <chunking level="2" />
 
-    <!-- Depth for table of contents.  0 means no TOC -->
-      <!--<tableofcontents level="1" />-->
+    <!-- Depth for table of contents.  0 means no TOC.                        -->
+    <!--                                                                      -->
+    <!-- Set to 2 so the sidebar lists each chapter's worksheets beneath it,   -->
+    <!-- with an expand/collapse chevron on every chapter. This has to be      -->
+    <!-- stated explicitly: PreTeXt infers the default depth from the document -->
+    <!-- structure, and the test it uses looks for "book/chapter/section".     -->
+    <!-- This book is book/chapter/worksheet, so it falls through to the       -->
+    <!-- "book/chapter" case and defaults to 1 - chapters only, nothing to     -->
+    <!-- expand. (Leaving it at 1 also trips a bug in the theme; see the note  -->
+    <!-- on the table of contents in the html section below.)                  -->
+      <tableofcontents level="2" />
 
     <!-- Visibility of exercise components where they first appear.          -->
     <!-- There are four components (statement/hint/answer/solution) for each -->
@@ -156,9 +165,29 @@
     feature (but then variant should be set to none to avoid conflict) -->
       <!--<search variant="default" />-->
 
-    <!-- Table of Contents: focused="yes" enables expand/collapse functionality. -->
-    <!-- @preexpanded-levels controls how deep to expend toc initially.          -->
-      <!--<toc focused="yes" preexpanded-levels="1" />-->
+    <!-- Table of Contents: focused="yes" puts an expand/collapse chevron on    -->
+    <!-- every entry that has children. The denver theme switches this on by    -->
+    <!-- default, so it is deliberately left unset here.                        -->
+    <!--                                                                        -->
+    <!-- The element is "tableofcontents"; the "toc" spelling in the generated   -->
+    <!-- template was wrong and PreTeXt ignores it silently.                    -->
+    <!--                                                                        -->
+    <!-- @preexpanded-levels is how many levels are open on load. The default of -->
+    <!-- 0 collapses every chapter except the one being read, which is what we   -->
+    <!-- want; set it to 1 to have all chapters open instead.                    -->
+      <!--<tableofcontents focused="yes" preexpanded-levels="1" />-->
+
+    <!-- KNOWN THEME BUG (PreTeXt 2.42.0, theme-denver.css). In the rule for    -->
+    <!-- the chapter containing the current page, at TOC depth 1, the           -->
+    <!-- background-color is set from a custom property whose name is           -->
+    <!-- misspelled: "tocitem-active-backgrounde", with a trailing e. No such   -->
+    <!-- property exists, so the background silently resolves to transparent    -->
+    <!-- while the matching text color still applies, and the chapter you just  -->
+    <!-- clicked renders white on white in light mode and near black on near    -->
+    <!-- black in dark mode. The depth 2 rule spells the name correctly, so     -->
+    <!-- the level="2" setting above steps around it. Worth reporting upstream. -->
+    <!-- If the TOC ever goes back to level 1, define the misspelled property   -->
+    <!-- yourself, aliasing it to the correctly spelled one.                    -->
 
     <!-- Navigation options: linear or tree, and whether there is an "up" button -->
       <!--<navigation logic="tree" upbutton="no" />-->
