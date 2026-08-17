@@ -186,5 +186,45 @@
       <xi:include href="./activities/algebra/fractions.ptx"/>
       <xi:include href="./activities/algebra/systems_of_equations.ptx"/>
     </chapter>
+
+    <chapter xml:id="inequalities">
+      <title>Inequalities and Absolute Value</title>
+
+      <introduction>
+        <p>
+          An <term>inequality</term> asks not for the value that balances an equation but for the
+          whole set of values that satisfy a condition, and that set is usually an
+          <term>interval</term> or a union of intervals. The <term>absolute value</term>
+          <m>|a-b|</m> measures the distance between <m>a</m> and <m>b</m>, so equations and
+          inequalities involving absolute values are statements about distance. In calculus these
+          skills are used constantly: finding where a function is defined, where it is positive,
+          and where it is increasing all come down to solving an inequality, often by testing the
+          sign of each factor on a number line (a <term>sign chart</term>).
+        </p>
+
+        <p>Topics</p>
+        <p>
+          <ul>
+            <li>Interval notation: converting between set-builder notation, number lines, and intervals</li>
+            <li>Absolute value equations, and absolute value as distance</li>
+            <li>Linear and compound inequalities</li>
+            <li>Absolute value inequalities</li>
+            <li>Polynomial and rational inequalities via sign charts</li>
+          </ul>
+        </p>
+
+        <p>Resources</p>
+        <p>
+          Section <url href="https://openstax.org/books/college-algebra-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities">2.7</url>
+          of OpenStax College Algebra, and Paul's Online Notes on
+          <url href="https://tutorial.math.lamar.edu/Classes/Alg/SolvePolyInequalities.aspx">polynomial</url> and
+          <url href="https://tutorial.math.lamar.edu/Classes/Alg/SolveRationalInequalities.aspx">rational</url> inequalities.
+        </p>
+      </introduction>
+
+      <xi:include href="./activities/inequalities/intervals_absolute_value.ptx"/>
+      <xi:include href="./activities/inequalities/linear_inequalities.ptx"/>
+      <xi:include href="./activities/inequalities/polynomial_rational_inequalities.ptx"/>
+    </chapter>
   </book>
 </pretext>

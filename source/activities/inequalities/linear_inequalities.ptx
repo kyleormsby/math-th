@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="linear_inequalities">
+  <title>Linear and Absolute Value Inequalities</title>
+
+  <!-- Exercises start here. -->
+  <!-- Linear inequalities -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/Ineq1.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/Ineq3.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/IneqFractions.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/Mizzou/Algebra/inequalities_linear/linear_14.pg"/>
+  </exercise>
+  <!-- Compound inequalities -->
+  <exercise> <!--5-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/Compound1.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/Compound2.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/FractionCompound.pg"/>
+  </exercise>
+  <!-- Absolute value inequalities -->
+  <exercise> <!--8-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Absolute_Value/LessThan.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Absolute_Value/GreaterThan.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Absolute_Value/Ineq4.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Absolute_Value/PossiblyNoSolution.pg"/>
+  </exercise>
+  <!-- An application -->
+  <exercise> <!--12-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/Moving_Costs.pg"/>
+  </exercise>
+</worksheet>

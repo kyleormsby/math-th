@@ -26,6 +26,20 @@
     </p>
 
     <p>
+      If you would like a suggestion for where to begin: headed for
+      <em>MATH 111</em>, start with <xref ref="functions" text="title"/> and
+      <xref ref="algebra" text="title"/>, then work through whichever of the
+      other chapters feels least familiar. Headed for <em>MATH 112</em>, make
+      sure you are quick with <xref ref="inequalities" text="title"/>,
+      especially absolute values, alongside
+      <xref ref="functions" text="title"/>. Headed for <em>MATH 113</em> or
+      <em>STAT 141</em>, the most relevant chapters are
+      <xref ref="algebra" text="title"/> and
+      <xref ref="inequalities" text="title"/>; material aimed more directly
+      at those courses is planned.
+    </p>
+
+    <p>
       Every exercise here is a live <term>WeBWorK</term> problem. Enter an
       answer and submit it for immediate feedback, and use the option to
       generate a new version of a problem when you want more practice with
@@ -135,6 +149,17 @@
           <li><p><xref ref="lines_in_plane" text="title"/></p></li>
           <li><p><xref ref="fractions" text="title"/></p></li>
           <li><p><xref ref="systems_of_equations" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+
+      <li>
+        <p><xref ref="inequalities" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="intervals_absolute_value" text="title"/></p></li>
+          <li><p><xref ref="linear_inequalities" text="title"/></p></li>
+          <li><p><xref ref="polynomial_rational_inequalities" text="title"/></p></li>
         </ul>
         </p>
       </li>

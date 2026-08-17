@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="polynomial_rational_inequalities">
+  <title>Polynomial and Rational Inequalities</title>
+
+  <!-- Exercises start here. -->
+  <!-- Reading sign information from a graph and a number line -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setPolynomials_-_Inequalities/intro-poly-ineq.pg"/>
+  </exercise>
+  <!-- Quadratic inequalities -->
+  <exercise> <!--2-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/IneqPoly1.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/IneqPoly2.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/Quadratic7.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Polynomial_Inequality/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_Poly_Ineq_2.pg"/>
+  </exercise>
+  <!-- Higher degree -->
+  <exercise> <!--6-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/Factored.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/CUNY/CityTech/Precalculus/setPolynomials_-_Inequalities/poly-ineq-cubic-factored.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/Grouping.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Polynomial_Inequality/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_Poly_Ineq_5.pg"/>
+  </exercise>
+  <!-- Rational inequalities -->
+  <exercise> <!--10-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Rational/Ratl1.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Rational/Ratl2.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Rational/Ratl5.pg"/>
+  </exercise>
+  <exercise> <!--13-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Rational/Ratl6.pg"/>
+  </exercise>
+</worksheet>

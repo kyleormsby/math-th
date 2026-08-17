@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="intervals_absolute_value">
+  <title>Intervals and Absolute Value</title>
+
+  <!-- Exercises start here. -->
+  <!-- Interval notation: set-builder to interval -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Real_Numbers/Interval_Notation/Convert_To_Interval_Notation_All.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Real_Numbers/Interval_Notation/Convert_To_Interval_Notation_Union.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Real_Numbers/Interval_Notation/Convert_To_Interval_Notation_Intersection.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/Mizzou/Algebra/real_numbers_interval_notation/conv_to_int_set_01.pg"/>
+  </exercise>
+  <!-- Reading intervals off a number line -->
+  <exercise> <!--5-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Real_Numbers/Interval_Notation/Graph_One_Interval_All.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Real_Numbers/Interval_Notation/Graph_Two_Intervals_Union.pg"/>
+  </exercise>
+  <!-- Absolute value equations -->
+  <exercise> <!--7-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/AbsValue2.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/AbsValue5.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/AbsValue7.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/NoSolution.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/abs_val_eqn_10.pg"/>
+  </exercise>
+</worksheet>
