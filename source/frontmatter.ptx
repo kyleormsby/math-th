@@ -41,7 +41,7 @@
     </p>
   </preface>
 
-  <acknowledgement>
+  <acknowledgement xml:id="acknowledgements">
     <title>Acknowledgments</title>
 
     <p>
@@ -51,6 +51,95 @@
       and building them into the PreTeXt source this site is generated
       from. Their work is the foundation of everything here.
     </p>
+
+    <p>
+      Nearly every exercise in this book is drawn from the
+      <url href="https://github.com/openwebwork/webwork-open-problem-library">WeBWorK
+      Open Problem Library</url>, a freely licensed collection of tens of
+      thousands of problems assembled over two decades. Our thanks to the
+      people who created it, to those who maintain it, and to the many
+      instructors who have contributed problems to it. A resource of this
+      size was a summer's work only because theirs came first.
+    </p>
   </acknowledgement>
+
+  <preface xml:id="preface-contents">
+    <title>Contents</title>
+
+    <p>
+      The chapters are independent of one another, and so are the sections
+      within them. Start wherever you like.
+    </p>
+
+    <p>
+    <ul>
+      <li>
+        <p><xref ref="functions" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="functions_general" text="title"/></p></li>
+          <li><p><xref ref="graphing" text="title"/></p></li>
+          <li><p><xref ref="transformations" text="title"/></p></li>
+          <li><p><xref ref="inverse_functions" text="title"/></p></li>
+          <li><p><xref ref="piecewise_functions" text="title"/></p></li>
+          <li><p><xref ref="modeling" text="title"/></p></li>
+          <li><p><xref ref="average_roc" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+
+      <li>
+        <p><xref ref="exponents" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="exponential_functions" text="title"/></p></li>
+          <li><p><xref ref="logarithms" text="title"/></p></li>
+          <li><p><xref ref="logarithmic_functions" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+
+      <li>
+        <p><xref ref="trigonometry" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="degrees_radians" text="title"/></p></li>
+          <li><p><xref ref="sine_cosine" text="title"/></p></li>
+          <li><p><xref ref="tan_etc" text="title"/></p></li>
+          <li><p><xref ref="right_triangles" text="title"/></p></li>
+          <li><p><xref ref="inverse_trig_functions" text="title"/></p></li>
+          <li><p><xref ref="evaluating_trig_functions" text="title"/></p></li>
+          <li><p><xref ref="identities" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+
+      <li>
+        <p><xref ref="polynomials_rationals" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="polynomial_functions" text="title"/></p></li>
+          <li><p><xref ref="factoring" text="title"/></p></li>
+          <li><p><xref ref="polynomial_roots" text="title"/></p></li>
+          <li><p><xref ref="long_division" text="title"/></p></li>
+          <li><p><xref ref="modeling_polynomials" text="title"/></p></li>
+          <li><p><xref ref="rational_functions" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+
+      <li>
+        <p><xref ref="algebra" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="lines_in_plane" text="title"/></p></li>
+          <li><p><xref ref="fractions" text="title"/></p></li>
+          <li><p><xref ref="systems_of_equations" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+    </ul>
+    </p>
+  </preface>
 
 </frontmatter>
