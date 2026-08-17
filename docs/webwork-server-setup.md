@@ -78,6 +78,11 @@ If any problem uses PG macros generated from our own source — TikZ images via
 `latex-image-preamble`, for instance — run `pretext -c pg-macros` and install
 the result in the host course's `templates/macros/`.
 
+Note that uploading is specific to *this* case: problems we reference by path.
+Problems we write ourselves are compiled into the built site and handed to the
+server by the reader's browser, so they never get uploaded and do not depend on
+any of this. See `authoring-problems.md`.
+
 ## What this does not get us
 
 Pointing at Reed's server changes *where problems come from*. It does not make
