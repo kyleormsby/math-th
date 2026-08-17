@@ -61,17 +61,18 @@
       
       <introduction>
         <p>
-          Exponential functions are functions in which a fixed value is raised to the power of the input variable. 
-          Logarithmic functions are the inverses of these. One important related concept is Euler's constant <term>e</term>, 
-          which has very nice properties as a base and is used in vital to exponential/logarithmic functions in calculus. 
+          Exponential functions are functions in which a fixed value is raised to the power of the input variable.
+          Logarithmic functions are the inverses of these. One important related concept is <term>Euler's number</term>
+          <m>e</m>, which has very nice properties as a base and is vital to the exponential and logarithmic
+          functions of calculus.
         </p>
 
         <p>Topics</p>
         <p>
           <ul>
-            <li>Exponential Functions: Evaluating exponental expressions/functions and using exponential functions as models</li>
+            <li>Exponential Functions: Evaluating exponential expressions/functions and using exponential functions as models</li>
             <li>Logarithm Rules: Rules for adding and scaling logarithms</li>
-            <li>Logarithmic Functions: Interpreting and modelling with logarithmic functions</li>
+            <li>Logarithmic Functions: Interpreting and modeling with logarithmic functions</li>
           </ul>
         </p>
 
@@ -91,8 +92,8 @@
       
       <introduction>
         <p>
-          This module covers trigonometric functions in the context of the unit circle and right triangles. 
-          Trigonometry deals with the relationship between angles and length/area/volume, which can be 
+          This chapter covers trigonometric functions in the context of the unit circle and right triangles.
+          Trigonometry deals with the relationships between angles and length/area/volume, which can be
           vital for solving geometric problems.
         </p>
 
@@ -102,7 +103,7 @@
             <li>Converting between degrees and radians</li>
             <li>Evaluating trigonometric functions</li>
             <li>Trigonometric identities</li>
-            <li>Using trigonometry to model real-world problems </li>
+            <li>Using trigonometry to model real-world problems</li>
           </ul>
         </p>
 
@@ -110,7 +111,7 @@
         <p>
           Chapters
           <url href="https://activecalculus.org/prelude/C-circular.html">2</url> and
-          <url href="https://activecalculus.org/prelude/C-circular.html">4</url> of Active Prelude to Calculus.
+          <url href="https://activecalculus.org/prelude/C-trig.html">4</url> of Active Prelude to Calculus.
         </p>
       </introduction>
 
@@ -128,7 +129,7 @@
       
       <introduction>
         <p>
-          Polynomials are expressions involving <term>integer powers</term> of one or more variables. 
+          Polynomials are expressions involving <term>nonnegative integer powers</term> of one or more variables.
           Polynomials are commonly used to model <term>volumes</term> and <term>surface areas</term>.
         </p>
 
@@ -162,7 +163,7 @@
       
       <introduction>
         <p>
-          This section is about solving equations and manipulating <term>algebraic expressions</term>, or expressions involving one or more <term>variables</term>.
+          This chapter is about solving equations and manipulating <term>algebraic expressions</term>, or expressions involving one or more <term>variables</term>.
         </p>
 
         <p>Topics</p>
