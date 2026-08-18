@@ -27,18 +27,18 @@
   </exercise>
   <!-- Absolute value equations -->
   <exercise> <!--7-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/AbsValue2.pg"/>
+  <webwork source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_01_AbsValEq.pg"/>
   </exercise>
   <exercise> <!--8-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/AbsValue5.pg"/>
+  <webwork source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_02_AbsValEq.pg"/>
   </exercise>
   <exercise> <!--9-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/AbsValue7.pg"/>
+  <webwork source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_03_AbsValEq.pg"/>
   </exercise>
   <exercise> <!--10-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/NoSolution.pg"/>
+  <webwork source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_07_AbsValEq.pg"/>
   </exercise>
   <exercise> <!--11-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Equations_Absolute_Value/abs_val_eqn_10.pg"/>
+  <webwork source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_05_AbsValEq.pg"/>
   </exercise>
 </worksheet>

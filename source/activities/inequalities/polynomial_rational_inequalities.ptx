@@ -7,7 +7,7 @@
   <!-- Exercises start here. -->
   <!-- Reading sign information from a graph and a number line -->
   <exercise> <!--1-->
-  <webwork source="Contrib/CUNY/CityTech/Precalculus/setPolynomials_-_Inequalities/intro-poly-ineq.pg"/>
+  <webwork source="Library/Rochester/setAlgebra13Inequalities/lh1-7_75.pg"/>
   </exercise>
   <!-- Quadratic inequalities -->
   <exercise> <!--2-->
@@ -27,10 +27,10 @@
   <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/Factored.pg"/>
   </exercise>
   <exercise> <!--7-->
-  <webwork source="Contrib/CUNY/CityTech/Precalculus/setPolynomials_-_Inequalities/poly-ineq-cubic-factored.pg"/>
+  <webwork source="Library/Rochester/setAlgebra13Inequalities/srw1_7_25.pg"/>
   </exercise>
   <exercise> <!--8-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/Grouping.pg"/>
+  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Polynomial/Groupingc.pg"/>
   </exercise>
   <exercise> <!--9-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/Polynomial_Inequality/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_Poly_Ineq_5.pg"/>

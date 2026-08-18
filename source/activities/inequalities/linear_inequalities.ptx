@@ -20,10 +20,10 @@
   </exercise>
   <!-- Compound inequalities -->
   <exercise> <!--5-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/Compound1.pg"/>
+  <webwork source="Contrib/Mizzou/Algebra/inequalities_compound/comp_ineq_01.pg"/>
   </exercise>
   <exercise> <!--6-->
-  <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/Compound2.pg"/>
+  <webwork source="Contrib/Mizzou/Algebra/inequalities_compound/comp_ineq_02.pg"/>
   </exercise>
   <exercise> <!--7-->
   <webwork source="Contrib/Mizzou/College_Algebra/Inequalities_Linear/FractionCompound.pg"/>
