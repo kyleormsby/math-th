@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="reading_data">
+  <title>Reading Tables and Graphs</title>
+
+  <!-- Exercises start here. -->
+  <!-- Tables -->
+  <exercise> <!--1-->
+  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-9s.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-5s.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Percents/Convert_Percents_Table_1.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Library/NAU/setProbability/Ind_Table.pg"/>
+  </exercise>
+  <!-- Graphs and charts -->
+  <exercise> <!--5-->
+  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-6s.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-2s.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-3s.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/PCC/BasicMath/Percent/MTH20PercentApplicationType1_110.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/PCC/BasicMath/Percent/MTH20PercentApplicationType1_120.pg"/>
+  </exercise>
+</worksheet>

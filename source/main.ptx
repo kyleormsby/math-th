@@ -15,6 +15,47 @@
     <!-- standalone review resource, not a course site. The template syllabus is -->
     <!-- still at source/syllabus/syllabus.ptx, unused, if it is ever wanted.    -->
 
+    <chapter xml:id="quantitative_reasoning">
+      <title>Quantitative Reasoning</title>
+
+      <introduction>
+        <p>
+          This chapter is about working confidently with numbers in context: percentages,
+          ratios, rates, units, and data presented in tables and charts. These are the
+          skills a statistics course leans on from the first day, and they are also the
+          part of mathematics most likely to show up outside any course at all. The final
+          section introduces systematic counting and basic probability, the doorway to
+          both statistics and discrete mathematics.
+        </p>
+
+        <p>Topics</p>
+        <p>
+          <ul>
+            <li>Percentages: converting between percents, decimals, and fractions; percent applications</li>
+            <li>Ratios and proportions: setting up and solving</li>
+            <li>Rates and unit conversion: single- and multi-step conversions, speeds, unit prices</li>
+            <li>Reading tables, charts, and graphs</li>
+            <li>Counting: the multiplication principle, permutations, and combinations</li>
+            <li>Basic probability, including simple probability models</li>
+          </ul>
+        </p>
+
+        <p>Resources</p>
+        <p>
+          Chapters <url href="https://openstax.org/books/prealgebra-2e/pages/5-introduction">5</url>
+          and <url href="https://openstax.org/books/prealgebra-2e/pages/6-introduction">6</url> of
+          OpenStax Prealgebra cover fractions through percents and proportions;
+          <url href="https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations">Khan Academy</url>
+          covers counting and probability.
+        </p>
+      </introduction>
+
+      <xi:include href="./activities/quantitative/percentages_proportions.ptx"/>
+      <xi:include href="./activities/quantitative/rates_unit_conversion.ptx"/>
+      <xi:include href="./activities/quantitative/reading_data.ptx"/>
+      <xi:include href="./activities/quantitative/counting_probability.ptx"/>
+    </chapter>
+
     <chapter xml:id="algebra">
       <title>Algebra</title>
       

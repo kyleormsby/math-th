@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="percentages_proportions">
+  <title>Percentages and Proportions</title>
+
+  <!-- Exercises start here. -->
+  <!-- Converting between percents, decimals, and fractions -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Percents/Convert_Percents_1.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Percents/Convert_Percents_9.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Percents/Convert_Percents_5.pg"/>
+  </exercise>
+  <!-- Percent applications -->
+  <exercise> <!--4-->
+  <webwork source="Contrib/PCC/BasicMath/Percent/MTH20PercentApplicationType1_10.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/PCC/BasicMath/Percent/MTH20PercentApplicationType1_20.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/PCC/BasicMath/Percent/MTH20PercentApplicationType1_30.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/PCC/BasicMath/Percent/MTH20PercentApplicationType1_100.pg"/>
+  </exercise>
+  <!-- Ratios and proportions -->
+  <exercise> <!--8-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Ratios_and_Conversions/Ratios_1.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Ratios_and_Conversions/Proportions_1.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Ratios_and_Conversions/Proportions_2.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Ratios_and_Conversions/Proportion_Application_1.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Ratios_and_Conversions/Proportion_Application_3.pg"/>
+  </exercise>
+</worksheet>

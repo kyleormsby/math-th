@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="counting_probability">
+  <title>Counting and Probability</title>
+
+  <!-- Exercises start here. -->
+  <!-- Counting -->
+  <exercise> <!--1-->
+  <webwork source="Library/Rochester/setAlgebra38Counting/sw10_1_1.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Library/Rochester/setAlgebra38Counting/sw10_1_17.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Library/NAU/setCounting/Counting_4.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Library/Rochester/setAlgebra38Counting/sw10_1_23.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Library/Rochester/setAlgebra38Counting/sw10_2_1.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Library/NAU/setCounting/Counting_14.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Library/Rochester/setAlgebra38Counting/sw10_2_17.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Library/NAU/setCounting/Counting_11.pg"/>
+  </exercise>
+  <!-- Probability -->
+  <exercise> <!--9-->
+  <webwork source="Library/Rochester/setAlgebra39Probability/sw10_3_19.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Library/Rochester/setAlgebra39Probability/sw10_3_21.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Library/NAU/setProbability/Marbles1.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Library/NAU/setProbability/ExpValueProbModel2.pg"/>
+  </exercise>
+</worksheet>

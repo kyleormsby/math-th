@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="rates_unit_conversion">
+  <title>Rates and Unit Conversion</title>
+
+  <!-- Exercises start here. -->
+  <!-- Single-step and multi-step conversions -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionAmerican10.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionAmerican120.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionAmerican170.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionMetric10.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionMetric100.pg"/>
+  </exercise>
+  <!-- Speed and rates -->
+  <exercise> <!--6-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionSpeed10.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionSpeed20.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/PCC/BasicMath/Proportion/MTH20Proportion40.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Ratios_and_Conversions/Proportion_Application_7.pg"/>
+  </exercise>
+  <!-- Applications -->
+  <exercise> <!--10-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionAmericanApplication10.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionMetricApplication10.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/PCC/BasicMath/UnitConversion/UnitConversionTimeApplication10.pg"/>
+  </exercise>
+</worksheet>

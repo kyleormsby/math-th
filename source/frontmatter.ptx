@@ -32,11 +32,11 @@
       other chapters feels least familiar. Headed for <em>MATH 112</em>, make
       sure you are quick with <xref ref="inequalities" text="title"/>,
       especially absolute values, alongside
-      <xref ref="functions" text="title"/>. Headed for <em>MATH 113</em> or
-      <em>STAT 141</em>, the most relevant chapters are
-      <xref ref="algebra" text="title"/> and
-      <xref ref="inequalities" text="title"/>; material aimed more directly
-      at those courses is planned.
+      <xref ref="functions" text="title"/>. Headed for <em>STAT 141</em>,
+      start with <xref ref="quantitative_reasoning" text="title"/>, then
+      <xref ref="algebra" text="title"/>. Headed for <em>MATH 113</em>,
+      start with <xref ref="algebra" text="title"/> and the counting section
+      of <xref ref="quantitative_reasoning" text="title"/>.
     </p>
 
     <p>
@@ -87,6 +87,17 @@
 
     <p>
     <ul>
+      <li>
+        <p><xref ref="quantitative_reasoning" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="percentages_proportions" text="title"/></p></li>
+          <li><p><xref ref="rates_unit_conversion" text="title"/></p></li>
+          <li><p><xref ref="reading_data" text="title"/></p></li>
+          <li><p><xref ref="counting_probability" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
       <li>
         <p><xref ref="algebra" text="title"/></p>
         <p>
