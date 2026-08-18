@@ -18,12 +18,6 @@
   <exercise> <!--4-->
   <webwork source="Library/Rochester/setAlgebra38Counting/sw10_1_23.pg"/>
   </exercise>
-  <exercise> <!--5-->
-  <webwork source="Library/Rochester/setAlgebra38Counting/sw10_2_1.pg"/>
-  </exercise>
-  <exercise> <!--6-->
-  <webwork source="Library/NAU/setCounting/Counting_14.pg"/>
-  </exercise>
   <exercise> <!--7-->
   <webwork source="Library/Rochester/setAlgebra38Counting/sw10_2_17.pg"/>
   </exercise>
