@@ -22,11 +22,12 @@
   <exercise> <!--5-->
   <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-6s.pg"/>
   </exercise>
-  <exercise> <!--6-->
-  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-2s.pg"/>
+  <!-- Descriptive statistics from data -->
+  <exercise> <!--6: replaces n8-2005-2s, a parallel-lines angle problem hidden in an image -->
+  <webwork source="Contrib/PCC/BasicMath/MeanMedianMode/MeanMedianMode120.pg"/>
   </exercise>
-  <exercise> <!--7-->
-  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-3s.pg"/>
+  <exercise> <!--7: replaces n8-2005-3s, a polygon-angles problem hidden in an image -->
+  <webwork source="Contrib/CCCS/QuantitativeLiteracy/Stats/mean_median_mode_3.pg"/>
   </exercise>
   <exercise> <!--8-->
   <webwork source="Contrib/PCC/BasicMath/Percent/MTH20PercentApplicationType1_110.pg"/>
