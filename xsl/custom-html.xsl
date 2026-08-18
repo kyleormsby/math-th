@@ -99,6 +99,7 @@
     // removed here, after each render, rather than in the problem source.
 
     var muHelpText = "Something helpful should go here";
+    var muHelpPattern = /Something\s+helpful\s+should\s+go\s+here\.\s*Please\s+inform\s+your\s+instructor\s+that\s+it\s+is\s+missing!?/;
     var attemptsPattern = /You have \d+ attempt\(s\) remaining before you will receive a new version of this problem\.?/;
 
     function deepestContaining(root, test) {
@@ -122,10 +123,58 @@
         // What text would be left in this element if the message vanished?
         var t = el.textContent.replace(attemptsPattern, "");
         if (test === testMuHelp) {
-            t = t.replace("Something helpful should go here. Please inform your instructor that it is missing!", "");
+            t = t.replace(muHelpPattern, "");
             t = t.replace("Help:", "");
         }
         return t.replace(/\s+/g, "");
+    }
+
+    function isBlankText(node) {
+        if (node.nodeType !== 3) { return false; }
+        return node.data.replace(/\s+/g, "").length === 0;
+    }
+
+    function isBr(node) {
+        if (node.nodeType !== 1) { return false; }
+        return node.tagName === "BR";
+    }
+
+    // Old TEXT-mode problems render as one flat run of siblings:
+    //   br, bold "Help:", the red message, br
+    // Removing the message alone strands the label, so sweep the
+    // neighbors: the "Help:" bold (or text node) before it, and the
+    // line breaks around the pair.
+    function sweepHelpLabel(target) {
+        var doomed = [];
+        var node = target.previousSibling;
+        while (node) {
+            if (isBlankText(node)) { doomed.push(node); node = node.previousSibling; continue; }
+            break;
+        }
+        var labelFound = false;
+        if (node) {
+            var txt = node.textContent.replace(/\s+/g, "");
+            if (txt === "Help:") {
+                doomed.push(node); labelFound = true;
+                node = node.previousSibling;
+                while (node) {
+                    if (isBlankText(node)) { doomed.push(node); node = node.previousSibling; continue; }
+                    if (isBr(node)) { doomed.push(node); }
+                    break;
+                }
+            }
+        }
+        if (labelFound) {
+            var after = target.nextSibling;
+            while (after) {
+                if (isBlankText(after)) { after = after.nextSibling; continue; }
+                if (isBr(after)) { doomed.push(after); }
+                break;
+            }
+            for (var i = 0; i !== doomed.length; i += 1) {
+                if (doomed[i].parentNode) { doomed[i].parentNode.removeChild(doomed[i]); }
+            }
+        }
     }
 
     function testMuHelp(t) { return t.indexOf(muHelpText) !== -1; }
@@ -148,6 +197,7 @@
                 up = up.parentNode;
             }
             if (residueAfter(target, test).length === 0) {
+                if (test === testMuHelp) { sweepHelpLabel(target); }
                 if (target.parentNode) { target.parentNode.removeChild(target); }
             } else {
                 // The message shares a container with real content; excise
