@@ -35,9 +35,9 @@
   <exercise> <!--10-->
   <webwork source="Library/NAU/setTrigIdentity/Even.pg"/>
   </exercise>
-  <!-- <exercise> 11 - image width too big error
-  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_40.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces 8_2_40, whose image renders at 107% width -->
+  <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_19.pg"/>
+  </exercise>
   <exercise> <!--11-->
   <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_42.pg"/>
   </exercise>

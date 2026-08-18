@@ -35,13 +35,12 @@
   <exercise> <!--10-->
   <webwork source="Library/NAU/setTrigHalfDouble/SineHalf2.pg"/>
   </exercise>
-  <!-- <exercise> 11
-  <webwork source="Library/Rochester/setTrig07Identity/p6.pg"/>
+  <exercise> <!-- replaces p6 (EV2-style); product-to-sum instead of half-angle fill-in -->
+  <webwork source="Library/Rochester/setTrig07Identity/p9.pg"/>
   </exercise>
-  <exercise> 12
-  <webwork source="Library/Rochester/setTrig07Identity/srw7_3_9.pg"/>
+  <exercise> <!-- replaces srw7_3_9 (EV2-style); double-angle simplification -->
+  <webwork source="Library/Rochester/setTrig07Identity/p5.pg"/>
   </exercise>
-  ^ "no statement tag" error-->
 
   <!-- All of the problems below have formatting issues (LaTeX not rendering properly, since they used 'x' instead of ['x']) -->
   <exercise> <!--13-->

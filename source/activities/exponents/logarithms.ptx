@@ -50,12 +50,10 @@
   <exercise> <!--15-->
   <webwork source="Library/maCalcDB/setAlgebra29LogFunctions/simplifying_expressions.pg"/>
   </exercise>
-  <!-- <exercise> 16
-  <webwork source="Library/Utah/College_Algebra/set9_Exponential_and_Logarithmic_Functions/1050s9p21.pg"/>
+  <exercise> <!-- replaces Utah 1050s9p21 (EV2-style) -->
+  <webwork source="Library/UVA-Stew5e/setUVA-Stew5e-C01S06-LogsInvs/1-6-39a.pg"/>
   </exercise>
-  <exercise> 17
-  <webwork source="Library/UVA-Stew5e/setUVA-Stew5e-C01S06-LogsInvs/1-6-37.pg"/>
-  </exercise> 
-  ^ These both throw errors, "WeBWorK problem __ does not have a statement tag"
-  -->
+  <exercise> <!-- replaces UVA 1-6-37 (EV2-style) -->
+  <webwork source="Library/UVA-Stew5e/setUVA-Stew5e-C01S06-LogsInvs/1-6-35.pg"/>
+  </exercise>
 </worksheet>

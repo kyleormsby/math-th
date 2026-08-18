@@ -44,7 +44,7 @@
   <exercise> <!--13-->
   <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec3/Q40.pg"/>
   </exercise>
-  <!-- <exercise> 14 - "no statement tag" error
-  <webwork source="Library/Utah/Trigonometry/set4_Trigonometry/s4p11.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces Utah s4p11 (EV2-style) -->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/AngleMeasure-Radians/pos-neg-coterminal.pg"/>
+  </exercise>
 </worksheet>

@@ -29,14 +29,12 @@
   <exercise> <!--8-->
   <webwork source="Library/Rochester/setTrig03FunctionsRightAngle/p11.pg"/>
   </exercise>
-  <!-- <exercise> 9
-  <webwork source="Library/Utah/Trigonometry/set5_Trigonometry/s5p2/s5p2.pg"/>
+  <exercise> <!-- replaces Utah s5p2 (EV2-style) -->
+  <webwork source="Contrib/PCC/BasicAlgebra/Trigonometry/RightTriangleTrig10.pg"/>
   </exercise>
-  <exercise> 10
-  <webwork source="Library/Utah/Trigonometry/set5_Trigonometry/s5p4.pg"/>
+  <exercise> <!-- replaces Utah s5p4 (EV2-style) -->
+  <webwork source="Contrib/PCC/BasicAlgebra/Trigonometry/RightTriangleTrigApplication10.pg"/>
   </exercise>
-  ^ "no statement tag" error
-  -->
   <exercise> <!--9-->
   <webwork source="Contrib/CCCS/PreCalculus/07.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_2_52.pg"/>
   </exercise>

@@ -26,9 +26,9 @@
   <exercise> <!--7-->
   <webwork source="Library/PCC/BasicAlgebra/PolynomialBasics/PolyAddSubtractApplication40.pg"/>
   </exercise>
-  <!-- <exercise> 8 - "no statement tag" error
-  <webwork source="Library/Rochester/setAlgebra23PolynomialZeros/beth1polydiv.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces beth1polydiv silo problem (EV2-style) -->
+  <webwork source="Contrib/Mizzou/College_Algebra/Functions_Increasing_Decreasing/Garden_Area.pg"/>
+  </exercise>
   <exercise> <!--8-->
   <webwork source="Library/ASU-topics/setFunctions/box.pg"/>
   </exercise>

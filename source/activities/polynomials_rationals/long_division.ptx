@@ -44,9 +44,9 @@
   <exercise> <!--13-->
   <webwork source="Contrib/RRCC/College_Algebra/MAT121/5.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_4_65.pg"/>
   </exercise>
-  <!-- <exercise> 14 - "no statement tag" error
-  <webwork source="Library/Rochester/setAlgebra22PolynomialDivision/srw3_2_7.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces srw3_2_7 (EV2-style); same quotient-and-remainder skill -->
+  <webwork source="Library/Rochester/setAlgebra22PolynomialDivision/long_division_1.pg"/>
+  </exercise>
   <exercise> <!--14-->
   <webwork source="Library/UMN/algebraKaufmannSchwitters/ks_4_5_2.pg"/>
   </exercise>

@@ -71,10 +71,9 @@
   <exercise> <!--22-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_5.pg"/>
   </exercise>
-  <!-- <exercise> 23 - not working? PTX:ERROR: WeBWorK problem Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_59.pg  with seed 23 is either empty or failed to compile
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_59.pg
-"/>
-  </exercise> -->
+  <exercise> <!-- re-enabled: compiles cleanly now; original failure was transient -->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_59.pg"/>
+  </exercise>
   <exercise> <!--23-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_61.pg"/>
   </exercise>

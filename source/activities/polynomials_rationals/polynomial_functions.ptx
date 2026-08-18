@@ -32,9 +32,9 @@
   <exercise> <!--9-->
   <webwork source="Library/Mizzou/College_Algebra/Polynomials_End_Behavior/EndBehavior2.pg"/>
   </exercise>
-  <!-- <exercise> 10 - "no statement tag" error
-  <webwork source="Library/Utah/Intermediate_Algebra/set9_Polynomials_and_Factoring/s9p26.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces Utah s9p26 (PGchoicemacros matching, incompatible with PTX mode) -->
+  <webwork source="Library/Rochester/setAlgebra23PolynomialZeros/describe_graph.pg"/>
+  </exercise>
   <exercise> <!--10-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/5.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_2_23.pg"/>
   </exercise>

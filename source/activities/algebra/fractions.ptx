@@ -11,9 +11,9 @@
   <exercise> <!--2-->
   <webwork source="Library/CollegeOfIdaho/setAlgebra_01_02_OperationsWithRealNumbers/12IntAlg_08_OperationsWithReals.pg"/>
   </exercise>
-  <!-- <exercise> 3 - "no statement tag" error
-  <webwork source="Library/Utah/Intermediate_Algebra/set2_Fundamentals_of_Algebra/s2p14.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces Utah s2p14 (EV2-style, no statement tag in PTX output) -->
+  <webwork source="Library/NewHampshire/unh_schoolib/Fractions/frabrs302.pg"/>
+  </exercise>
   <exercise> <!--3-->
   <webwork source="Library/NewHampshire/unh_schoolib/Fractions/frasrs102.pg"/>
   </exercise>
@@ -50,9 +50,9 @@
   <exercise> <!--14-->
   <webwork source="Library/ma112DB/set1_2/sw1_2_15b.pg"/>
   </exercise>
-  <!-- <exercise> 15 - "no statement tag" error
-  <webwork source="Library/maCalcDB/setAlgebra05RationalExpressions/Test2_1.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces maCalcDB Test2_1 (EV2-style, no statement tag in PTX output) -->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_Expressions_Complex_Fractions/Complex2.pg"/>
+  </exercise>
   <exercise> <!--15-->
   <webwork source="Library/PCC/BasicAlgebra/Exponents/negExp55.pg"/>
   </exercise>

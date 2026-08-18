@@ -20,14 +20,12 @@
   <exercise> <!--5-->
   <webwork source="Library/AlfredUniv/anton8e/chapter1/1.5/prob9.pg"/>
   </exercise>
-  <!-- <exercise> 6
-  <webwork source="Library/ASU-topics/setTrigInverse/p12.pg"/>
+  <exercise> <!-- replaces ASU p12 (EV2-style) -->
+  <webwork source="Library/Rochester/setTrig06Inverses/srw7_4_23.pg"/>
   </exercise>
-  <exercise> 7
-  <webwork source="Library/ASU-topics/setTrigInverse/srw7_4_1.pg"/>
-  </exercise> 
-  ^ statement tag error
-  -->
+  <exercise> <!-- replaces ASU srw7_4_1 (EV2-style) -->
+  <webwork source="Library/Rochester/setTrig06Inverses/srw7_4_25.pg"/>
+  </exercise>
   <exercise> <!--6-->
   <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec7/Q58.pg"/>
   </exercise>
@@ -37,9 +35,9 @@
   <exercise> <!--8-->
   <webwork source="Library/UCSB/Stewart5_1_6/Stewart5_1_6_75.pg"/>
   </exercise>
-  <!-- <exercise> 11 - statement tag error
-  <webwork source="Library/Utah/Trigonometry/set7_Trigonometry/graphs/graphs.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces Utah graphs.pg (PGchoicemacros matching, incompatible with PTX mode) -->
+  <webwork source="Library/Rochester/setTrig06Inverses/srw7_6_11.pg"/>
+  </exercise>
   <exercise> <!--9-->
   <webwork source="Library/Wiley/setAnton_Section_0.4/Question39.pg"/>
   </exercise>

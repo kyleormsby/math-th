@@ -23,9 +23,9 @@
   <exercise> <!--6-->
   <webwork source="Contrib/CUNY/OPLremix/Library/Union/setTrigBasicValues/ur_tr_1_6d.pg"/>
   </exercise>
-  <!-- <exercise> 7 - no statement tag error
-  <webwork source="Library/ASU-topics/setRightAngleTrig/srw6_2_19.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces ASU srw6_2_19 (EV2-style) -->
+  <webwork source="Library/Rochester/setTrig03FunctionsRightAngle/p8.pg"/>
+  </exercise>
   <exercise> <!--7-->
   <webwork source="Library/ASU-topics/setUnitCircle/p5.pg"/>
   </exercise>
@@ -35,12 +35,12 @@
   <exercise> <!--9-->
   <webwork source="Library/NAU/setTrigIdentity/sixvalues01.pg"/>
   </exercise>
-  <!-- <exercise> 11 - no statement tag error
-  <webwork source="Library/Rochester/setTrig04FunctionsAnyAngle/srw6_3_19.pg"/>
-  </exercise> -->
-  <!-- <exercise> 12 - no statement tag error
-  <webwork source="Library/Rochester/setTrig04FunctionsAnyAngle/srw6_3_25.pg"/>
-  </exercise> -->
+  <exercise> <!-- replaces srw6_3_19 (EV2-style); same any-angle evaluation, MathObjects version -->
+  <webwork source="Library/Rochester/setTrig04FunctionsAnyAngle/p3_mo.pg"/>
+  </exercise>
+  <exercise> <!-- replaces srw6_3_25 (EV2-style); same skill, MathObjects version -->
+  <webwork source="Library/Rochester/setTrig04FunctionsAnyAngle/p10_mo.pg"/>
+  </exercise>
   <exercise> <!--10-->
   <webwork source="Contrib/CCCS/Trigonometry/07.3/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_3_11.pg"/>
   </exercise>
