@@ -41,9 +41,6 @@
   <exercise> <!--11-->
   <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_42.pg"/>
   </exercise>
-  <exercise> <!--12-->
-  <webwork source="Contrib/CCCS/Trigonometry/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_07.pg"/>
-  </exercise>
   <exercise> <!--13: formatting issues with this one-->
   <webwork source="Contrib/CCCS/PreCalculus/08.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_2_39.pg"/>
   </exercise>

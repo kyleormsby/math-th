@@ -21,16 +21,13 @@
   <webwork source="Library/ASU-topics/setGraphEquations/srw1_8_45.pg"/>
   </exercise>
   <exercise> <!--6-->
-  <webwork source="Library/BentleyUniversity/MathematicsOfComputerGraphics/setMoCG-Ch7/7-1-EquationOfASphere.pg"/>
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Circles/RRCC_CCCS_Circles_3.pg"/>
   </exercise>
   <exercise> <!--7-->
   <webwork source="Library/CollegeOfIdaho/setAlgebra_01_03_GraphingEquations/13IntAlg_08_GraphingEq.pg"/>
   </exercise>
   <exercise> <!--8-->
   <webwork source="Library/ma117DB/set2/srw1_8_46.pg"/>
-  </exercise>
-  <exercise> <!-- replaces n8-2005-12, whose image renders at 116% width -->
-  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-7s.pg"/>
   </exercise>
   <exercise> <!--9-->
   <webwork source="Library/NewHampshire/unh_schoolib/Graphs/grapns301.pg"/>
@@ -52,8 +49,5 @@
   </exercise>
   <exercise> <!--15-->
   <webwork source="Library/UMN/algebraKaufmannSchwitters/ks_7_2_prob01.pg"/>
-  </exercise>
-  <exercise> <!-- replaces Utah p20 (EV2-style matching problem) -->
-  <webwork source="Library/Rochester/setAlgebra23PolynomialZeros/describe_graph_a.pg"/>
   </exercise>
 </worksheet>

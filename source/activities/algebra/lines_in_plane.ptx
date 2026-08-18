@@ -65,4 +65,7 @@
   <exercise> <!--20-->
   <webwork source="Contrib/Fitchburg/Algebra/lines/line-graph-1.pg"/>
   </exercise>
+  <exercise> <!-- moved from Graphing: interpreting a linear relationship -->
+  <webwork source="Library/NewHampshire/NECAP/grade8/gr8-2005/n8-2005-7s.pg"/>
+  </exercise>
 </worksheet>

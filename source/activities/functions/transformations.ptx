@@ -20,9 +20,6 @@
   <exercise> <!--5-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_59.pg"/>
   </exercise>
-  <exercise> <!--6-->
-  <webwork source="Contrib/CCCS/PreCalculus/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_56.pg"/>
-  </exercise>
   <exercise> <!--7-->
   <webwork source="Library/FortLewis/Algebra/5-3-Linear-equations/MCH1-5-3-52a-Linear-equations.pg"/>
   </exercise>
@@ -67,9 +64,6 @@
   </exercise>
   <exercise> <!--21-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_24.pg"/>
-  </exercise>
-  <exercise> <!--22-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.5/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_5_27.pg"/>
   </exercise>
 
 </worksheet>

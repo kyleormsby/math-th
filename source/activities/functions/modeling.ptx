@@ -5,12 +5,6 @@
   <title>Modeling</title>
 
   <!-- Exercises start here. -->
-  <exercise> <!--1-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_26.pg"/>
-  </exercise>
-  <exercise> <!--2-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_44.pg"/>
-  </exercise>
   <exercise> <!--3-->
   <webwork source="Contrib/CUNY/CityTech/Precalculus/setIntroductiontoFunctions/DataFromTable10.pg"/>
   </exercise>

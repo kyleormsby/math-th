@@ -35,9 +35,6 @@
   <exercise> <!--10-->
   <webwork source="Contrib/CCCS/PreCalculus/3.7/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_7_sup1.pg"/>
   </exercise>
-  <exercise> <!--11-->
-  <webwork source="Contrib/CCCS/PreCalculus/3.7/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_7_12.pg"/>
-  </exercise>
   <exercise> <!--12-->
   <webwork source="Contrib/CCCS/PreCalculus/3.7/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_7_21.pg"/>
   </exercise>

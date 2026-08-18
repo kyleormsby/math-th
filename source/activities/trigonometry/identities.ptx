@@ -23,9 +23,6 @@
   <exercise> <!--6-->
   <webwork source="Contrib/CCCS/Trigonometry/09.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_9_3_14.pg"/>
   </exercise>
-  <exercise> <!--7-->
-  <webwork source="Contrib/CCCS/Trigonometry/09.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_9_3_5.pg"/>
-  </exercise>
   <exercise> <!--8-->
   <webwork source="Contrib/CCCS/Trigonometry/09.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_9_3_9.pg"/>
   </exercise>

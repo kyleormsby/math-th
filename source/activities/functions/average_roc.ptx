@@ -11,9 +11,6 @@
   <exercise> <!--2-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_7a.pg"/>
   </exercise>
-  <exercise> <!--3-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_7b.pg"/>
-  </exercise>
   <exercise> <!--4-->
   <webwork source="Contrib/CCCS/PreCalculus/3.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_3_11.pg"/>
   </exercise>

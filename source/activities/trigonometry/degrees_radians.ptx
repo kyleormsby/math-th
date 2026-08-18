@@ -41,9 +41,6 @@
   <exercise> <!--12-->
   <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec2/Q01.pg"/>
   </exercise>
-  <exercise> <!--13-->
-  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec3/Q40.pg"/>
-  </exercise>
   <exercise> <!-- replaces Utah s4p11 (EV2-style) -->
   <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/AngleMeasure-Radians/pos-neg-coterminal.pg"/>
   </exercise>

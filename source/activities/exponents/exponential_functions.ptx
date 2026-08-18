@@ -65,25 +65,7 @@
   <exercise> <!--20-->
   <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_14.pg"/>
   </exercise>
-  <exercise> <!--21-->
-  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_18.pg"/>
-  </exercise>
   <exercise> <!--22-->
   <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_15.pg"/>
-  </exercise>
-  <exercise> <!--23-->
-  <webwork source="Contrib/RRCC/College_Algebra/MAT121/6.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_6_1_16.pg"/>
-  </exercise>
-  <exercise> <!--24-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_26.pg"/>
-  </exercise>
-  <exercise> <!--25-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_27.pg"/>
-  </exercise>
-  <exercise> <!--26-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_30.pg"/>
-  </exercise>
-  <exercise> <!--27-->
-  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/IntegerExponents/divide-medium.pg"/>
   </exercise>
 </worksheet>

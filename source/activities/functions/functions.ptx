@@ -65,9 +65,6 @@
   <exercise> <!--25-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_49.pg"/>
   </exercise>
-  <exercise> <!--26-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_SUP1.pg"/>
-  </exercise>
   <exercise> <!--27-->
   <webwork source="Contrib/CCCS/PreCalculus/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_39.pg"/>
   </exercise>

@@ -35,4 +35,16 @@
   <exercise> <!--10-->
   <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_14.pg"/>
   </exercise>
+  <exercise> <!-- moved from Exponential Functions: exponent-rules content -->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_26.pg"/>
+  </exercise>
+  <exercise> <!-- moved from Exponential Functions: exponent-rules content -->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_27.pg"/>
+  </exercise>
+  <exercise> <!-- moved from Exponential Functions: exponent-rules content -->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/Prerequisite_Review/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_1_2_30.pg"/>
+  </exercise>
+  <exercise> <!-- moved from Exponential Functions: exponent-rules content -->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/IntegerExponents/divide-medium.pg"/>
+  </exercise>
 </worksheet>

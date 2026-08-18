@@ -14,14 +14,8 @@
   <exercise> <!--3-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_57.pg"/>
   </exercise>
-  <exercise> <!--4-->
-  <webwork source="Contrib/CCCS/PreCalculus/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_60.pg"/>
-  </exercise>
   <exercise> <!--5-->
   <webwork source="Contrib/RRCC/College_Algebra/MAT121/5.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_2_39.pg"/>
-  </exercise>
-  <exercise> <!--6-->
-  <webwork source="Contrib/RRCC/College_Algebra/MAT121/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_57.pg"/>
   </exercise>
   <exercise> <!--7-->
   <webwork source="Library/FortLewis/Algebra/4-2-Functions-and-expressions/MCH1-4-2-14-Functions-and-expressions.pg"/>
@@ -65,19 +59,7 @@
   <exercise> <!--19-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/5.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_2_60.pg"/>
   </exercise>
-  <exercise> <!--20-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_30.pg"/>
-  </exercise>
-  <exercise> <!--21-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_32.pg"/>
-  </exercise>
-  <exercise> <!--22-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_37.pg"/>
-  </exercise>
   <exercise> <!--23-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_48.pg"/>
-  </exercise>
-  <exercise> <!--24-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/5.3/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_5_3_60.pg"/>
   </exercise>
 </worksheet>

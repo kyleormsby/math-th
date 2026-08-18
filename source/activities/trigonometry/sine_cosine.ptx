@@ -8,9 +8,6 @@
   <exercise> <!--1-->
   <webwork source="Contrib/CCCS/Trigonometry/07.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_2_06.pg"/>
   </exercise>
-  <exercise> <!--2-->
-  <webwork source="Contrib/CCCS/PreCalculus/07.2/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_2_06.pg"/>
-  </exercise>
   <exercise> <!--3-->
   <webwork source="Contrib/CCCS/PreCalculus/08.1/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_8_1_06.pg"/>
   </exercise>
@@ -67,5 +64,8 @@
   </exercise>
   <exercise> <!--21-->
   <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec5/Q36.pg"/>
+  </exercise>
+  <exercise> <!-- moved from Degrees and Radians: sine and cosine on the unit circle -->
+  <webwork source="Library/LoyolaChicago/Precalc/Chap6Sec3/Q40.pg"/>
   </exercise>
 </worksheet>

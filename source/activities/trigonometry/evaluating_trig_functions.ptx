@@ -86,8 +86,5 @@
   <exercise> <!--24-->
   <webwork source="Contrib/CCCS/Trigonometry/07.4/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_4_22.pg"/>
   </exercise>
-  <exercise> <!--25-->
-  <webwork source="Contrib/CCCS/Trigonometry/07.4/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_7_4_8.pg"/>
-  </exercise>
 
 </worksheet>

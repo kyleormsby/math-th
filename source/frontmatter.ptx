@@ -88,49 +88,40 @@
     <p>
     <ul>
       <li>
+        <p><xref ref="algebra" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="fractions" text="title"/></p></li>
+          <li><p><xref ref="lines_in_plane" text="title"/></p></li>
+          <li><p><xref ref="systems_of_equations" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+      <li>
+        <p><xref ref="inequalities" text="title"/></p>
+        <p>
+        <ul>
+          <li><p><xref ref="intervals_absolute_value" text="title"/></p></li>
+          <li><p><xref ref="linear_inequalities" text="title"/></p></li>
+          <li><p><xref ref="polynomial_rational_inequalities" text="title"/></p></li>
+        </ul>
+        </p>
+      </li>
+      <li>
         <p><xref ref="functions" text="title"/></p>
         <p>
         <ul>
           <li><p><xref ref="functions_general" text="title"/></p></li>
           <li><p><xref ref="graphing" text="title"/></p></li>
+          <li><p><xref ref="piecewise_functions" text="title"/></p></li>
           <li><p><xref ref="transformations" text="title"/></p></li>
           <li><p><xref ref="composition" text="title"/></p></li>
           <li><p><xref ref="inverse_functions" text="title"/></p></li>
-          <li><p><xref ref="piecewise_functions" text="title"/></p></li>
           <li><p><xref ref="modeling" text="title"/></p></li>
           <li><p><xref ref="average_roc" text="title"/></p></li>
         </ul>
         </p>
       </li>
-
-      <li>
-        <p><xref ref="exponents" text="title"/></p>
-        <p>
-        <ul>
-          <li><p><xref ref="exponent_rules" text="title"/></p></li>
-          <li><p><xref ref="radicals_rational_exponents" text="title"/></p></li>
-          <li><p><xref ref="exponential_functions" text="title"/></p></li>
-          <li><p><xref ref="logarithms" text="title"/></p></li>
-          <li><p><xref ref="logarithmic_functions" text="title"/></p></li>
-        </ul>
-        </p>
-      </li>
-
-      <li>
-        <p><xref ref="trigonometry" text="title"/></p>
-        <p>
-        <ul>
-          <li><p><xref ref="degrees_radians" text="title"/></p></li>
-          <li><p><xref ref="sine_cosine" text="title"/></p></li>
-          <li><p><xref ref="tan_etc" text="title"/></p></li>
-          <li><p><xref ref="right_triangles" text="title"/></p></li>
-          <li><p><xref ref="inverse_trig_functions" text="title"/></p></li>
-          <li><p><xref ref="evaluating_trig_functions" text="title"/></p></li>
-          <li><p><xref ref="identities" text="title"/></p></li>
-        </ul>
-        </p>
-      </li>
-
       <li>
         <p><xref ref="polynomials_rationals" text="title"/></p>
         <p>
@@ -144,25 +135,29 @@
         </ul>
         </p>
       </li>
-
       <li>
-        <p><xref ref="algebra" text="title"/></p>
+        <p><xref ref="exponents" text="title"/></p>
         <p>
         <ul>
-          <li><p><xref ref="lines_in_plane" text="title"/></p></li>
-          <li><p><xref ref="fractions" text="title"/></p></li>
-          <li><p><xref ref="systems_of_equations" text="title"/></p></li>
+          <li><p><xref ref="exponent_rules" text="title"/></p></li>
+          <li><p><xref ref="radicals_rational_exponents" text="title"/></p></li>
+          <li><p><xref ref="exponential_functions" text="title"/></p></li>
+          <li><p><xref ref="logarithms" text="title"/></p></li>
+          <li><p><xref ref="logarithmic_functions" text="title"/></p></li>
         </ul>
         </p>
       </li>
-
       <li>
-        <p><xref ref="inequalities" text="title"/></p>
+        <p><xref ref="trigonometry" text="title"/></p>
         <p>
         <ul>
-          <li><p><xref ref="intervals_absolute_value" text="title"/></p></li>
-          <li><p><xref ref="linear_inequalities" text="title"/></p></li>
-          <li><p><xref ref="polynomial_rational_inequalities" text="title"/></p></li>
+          <li><p><xref ref="degrees_radians" text="title"/></p></li>
+          <li><p><xref ref="sine_cosine" text="title"/></p></li>
+          <li><p><xref ref="tan_etc" text="title"/></p></li>
+          <li><p><xref ref="evaluating_trig_functions" text="title"/></p></li>
+          <li><p><xref ref="right_triangles" text="title"/></p></li>
+          <li><p><xref ref="inverse_trig_functions" text="title"/></p></li>
+          <li><p><xref ref="identities" text="title"/></p></li>
         </ul>
         </p>
       </li>
