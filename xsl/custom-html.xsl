@@ -162,12 +162,14 @@
         }
     }
 
-    function stripNoise() {
-        removeMessage(document, testMuHelp);
-        removeMessage(document, testAttempts);
+    function stripDoc(doc) {
+        if (!doc) { return; }
+        if (!doc.body) { return; }
+        removeMessage(doc, testMuHelp);
+        removeMessage(doc, testAttempts);
         // The rerandomization macro's own button duplicates PreTeXt's
         // native Randomize control; drop it when it appears.
-        var subs = document.querySelectorAll('input[name="submitAnswers"]');
+        var subs = doc.querySelectorAll('input[name="submitAnswers"]');
         for (var i = 0; i !== subs.length; i += 1) {
             if (subs[i].value.indexOf("Generate a new version") === 0) {
                 if (subs[i].parentNode) { subs[i].parentNode.removeChild(subs[i]); }
@@ -175,14 +177,35 @@
         }
     }
 
+    // PreTeXt renders each activated problem into an iframe built with
+    // srcdoc (same origin, so its document is scriptable from here), and
+    // rebuilds that srcdoc on every check/randomize. A mutation observer
+    // on the top document never sees inside the frames, so each frame
+    // gets its own load hook, firing again on every re-render.
+    function hookFrame(fr) {
+        if (!fr.dataset.ptxNoiseHooked) {
+            fr.dataset.ptxNoiseHooked = "1";
+            fr.addEventListener("load", function () {
+                try { stripDoc(fr.contentDocument); } catch (e) { }
+            });
+        }
+        try { stripDoc(fr.contentDocument); } catch (e) { }
+    }
+
+    function stripEverywhere() {
+        stripDoc(document);
+        var frames = document.querySelectorAll("iframe.problem-iframe");
+        for (var i = 0; i !== frames.length; i += 1) { hookFrame(frames[i]); }
+    }
+
     var stripTimer = null;
     function scheduleStrip() {
         if (stripTimer !== null) { clearTimeout(stripTimer); }
-        stripTimer = setTimeout(function () { stripTimer = null; stripNoise(); }, 150);
+        stripTimer = setTimeout(function () { stripTimer = null; stripEverywhere(); }, 150);
     }
 
     function watchForRenders() {
-        stripNoise();
+        stripEverywhere();
         if (typeof MutationObserver === "undefined") { return; }
         var mo = new MutationObserver(scheduleStrip);
         mo.observe(document.body, { childList: true, subtree: true });
