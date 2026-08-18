@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="radicals_rational_exponents">
+  <title>Radicals and Rational Exponents</title>
+
+  <!-- Exercises start here. -->
+  <!-- Simplifying radicals -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Radicals/Cube_Root_01.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Radicals/Fourth_Fifth_Root_01.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Radicals/MultiplyRadicals.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Radicals/RadicalOfFraction.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Radicals/Diff_of_Rads_01.pg"/>
+  </exercise>
+  <!-- Rational exponents -->
+  <exercise> <!--6-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/RationalExponents/numeric-m-n-powers.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Rational_Exponents/Convert_to_Radical_02.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Rational_Exponents/RadicalToFractionalExponent.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Rational_Exponents/Fractional_To_Radical_01.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Rational_Exponents/FracExponents.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Rational_and_Radical_Exponents_Simplifying_Rational_Exponents/Powers.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Contrib/CUNY/CityTech/CollegeAlgebra_Trig/RationalExponents/combine-rational-exponents-multiply.pg"/>
+  </exercise>
+</worksheet>

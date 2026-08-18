@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="composition">
+  <title>Composition and Decomposition</title>
+
+  <!-- Exercises start here. -->
+  <!-- Computing compositions (moved here from the Functions worksheet) -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_11.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_13.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Library/FortLewis/Algebra/8-2-Function-composition/MCH1-8-2-28-Function-composition.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_59.pg"/>
+  </exercise>
+  <!-- Compositions from tables and graphs -->
+  <exercise> <!--5-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_61.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/Openstax_AlgTrig_AT-1-001-AS_3_4_43.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/Openstax_AlgTrig_AT-1-001-AS_3_4_45.pg"/>
+  </exercise>
+  <!-- Domain of a composition -->
+  <exercise> <!--8-->
+  <webwork source="Contrib/Mizzou/College_Algebra/Functions_Composition/FunctionAndDomain.pg"/>
+  </exercise>
+  <!-- Decomposition: write a function as a composition of simpler pieces -->
+  <exercise> <!--9-->
+  <webwork source="Library/FortLewis/Algebra/8-2-Function-composition/MCH1-8-2-09-Function-composition.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Library/FortLewis/Algebra/8-2-Function-composition/MCH1-8-2-10-Function-composition.pg"/>
+  </exercise>
+  <exercise> <!--11-->
+  <webwork source="Library/FortLewis/Algebra/8-2-Function-composition/MCH1-8-2-11-Function-composition.pg"/>
+  </exercise>
+  <exercise> <!--12-->
+  <webwork source="Library/FortLewis/Algebra/8-2-Function-composition/MCH1-8-2-30-Function-composition.pg"/>
+  </exercise>
+</worksheet>

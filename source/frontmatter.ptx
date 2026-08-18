@@ -94,6 +94,7 @@
           <li><p><xref ref="functions_general" text="title"/></p></li>
           <li><p><xref ref="graphing" text="title"/></p></li>
           <li><p><xref ref="transformations" text="title"/></p></li>
+          <li><p><xref ref="composition" text="title"/></p></li>
           <li><p><xref ref="inverse_functions" text="title"/></p></li>
           <li><p><xref ref="piecewise_functions" text="title"/></p></li>
           <li><p><xref ref="modeling" text="title"/></p></li>
@@ -106,6 +107,8 @@
         <p><xref ref="exponents" text="title"/></p>
         <p>
         <ul>
+          <li><p><xref ref="exponent_rules" text="title"/></p></li>
+          <li><p><xref ref="radicals_rational_exponents" text="title"/></p></li>
           <li><p><xref ref="exponential_functions" text="title"/></p></li>
           <li><p><xref ref="logarithms" text="title"/></p></li>
           <li><p><xref ref="logarithmic_functions" text="title"/></p></li>

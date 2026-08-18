@@ -56,26 +56,8 @@
   <exercise> <!--17-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/CCD_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_A.pg"/>
   </exercise>
-  <exercise> <!--18-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/Openstax_AlgTrig_AT-1-001-AS_3_4_43.pg"/>
-  </exercise>
-  <exercise> <!--19-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/Openstax_AlgTrig_AT-1-001-AS_3_4_45.pg"/>
-  </exercise>
-  <exercise> <!--20-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_11.pg"/>
-  </exercise>
-  <exercise> <!--21-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_13.pg"/>
-  </exercise>
   <exercise> <!--22-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_5.pg"/>
-  </exercise>
-  <exercise> <!-- re-enabled: compiles cleanly now; original failure was transient -->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_59.pg"/>
-  </exercise>
-  <exercise> <!--23-->
-  <webwork source="Contrib/CCCS/CollegeAlgebra/3.4/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_4_61.pg"/>
   </exercise>
   <exercise> <!--24-->
   <webwork source="Contrib/CCCS/CollegeAlgebra/3.2/RRCC_CCCS_Openstax_AlgTrig_AT-1-001-AS_3_2_43.pg"/>

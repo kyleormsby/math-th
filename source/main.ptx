@@ -30,9 +30,10 @@
         <p>Topics</p>
         <p>
           <ul>
-            <li>Functions: definition, domain &amp; range, composition, arithmetic</li>
+            <li>Functions: definition, domain &amp; range, arithmetic</li>
             <li>Graphing: drawing graphs from functions, identifying functions from graphs</li>
             <li>Transformations of functions and graphs</li>
+            <li>Composing functions, and decomposing a function into simpler pieces</li>
             <li>Inverting functions</li>
             <li>Setting up and evaluating piecewise functions</li>
             <li>Modeling relationships with functions</li>
@@ -50,6 +51,7 @@
       <xi:include href="./activities/functions/functions.ptx"/>
       <xi:include href="./activities/functions/graphing.ptx"/>
       <xi:include href="./activities/functions/transformations.ptx"/>
+      <xi:include href="./activities/functions/composition.ptx"/>
       <xi:include href="./activities/functions/inverse_functions.ptx"/>
       <xi:include href="./activities/functions/piecewise_functions.ptx"/>
       <xi:include href="./activities/functions/modeling.ptx"/>
@@ -61,6 +63,10 @@
       
       <introduction>
         <p>
+          This chapter begins with the algebra of exponents themselves: the rules for combining powers,
+          negative exponents, and the fact that radicals are just fractional powers. Being quick with
+          this algebra<mdash/>rewriting <m>\frac{1}{\sqrt[3]{x^2}}</m> as <m>x^{-2/3}</m> without
+          hesitation<mdash/>is what makes derivative computations go smoothly later.
           Exponential functions are functions in which a fixed value is raised to the power of the input variable.
           Logarithmic functions are the inverses of these. One important related concept is <term>Euler's number</term>
           <m>e</m>, which has very nice properties as a base and is vital to the exponential and logarithmic
@@ -70,6 +76,8 @@
         <p>Topics</p>
         <p>
           <ul>
+            <li>Exponent Rules: Combining powers, negative exponents, simplifying expressions</li>
+            <li>Radicals and Rational Exponents: Simplifying radicals, converting between radical and exponent notation</li>
             <li>Exponential Functions: Evaluating exponential expressions/functions and using exponential functions as models</li>
             <li>Logarithm Rules: Rules for adding and scaling logarithms</li>
             <li>Logarithmic Functions: Interpreting and modeling with logarithmic functions</li>
@@ -82,6 +90,8 @@
         </p>
       </introduction>
 
+      <xi:include href="./activities/exponents/exponent_rules.ptx"/>
+      <xi:include href="./activities/exponents/radicals_rational_exponents.ptx"/>
       <xi:include href="./activities/exponents/exponential_functions.ptx"/>
       <xi:include href="./activities/exponents/logarithms.ptx"/>
       <xi:include href="./activities/exponents/logarithmic_functions.ptx"/>

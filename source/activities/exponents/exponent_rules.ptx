@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="exponent_rules">
+  <title>Exponent Rules</title>
+
+  <!-- Exercises start here. -->
+  <exercise> <!--1-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_02.pg"/>
+  </exercise>
+  <exercise> <!--2-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_03.pg"/>
+  </exercise>
+  <exercise> <!--3-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_05.pg"/>
+  </exercise>
+  <exercise> <!--4-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_06.pg"/>
+  </exercise>
+  <exercise> <!--5-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_08.pg"/>
+  </exercise>
+  <exercise> <!--6-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_09.pg"/>
+  </exercise>
+  <exercise> <!--7-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_10.pg"/>
+  </exercise>
+  <exercise> <!--8-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_11.pg"/>
+  </exercise>
+  <exercise> <!--9-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_13.pg"/>
+  </exercise>
+  <exercise> <!--10-->
+  <webwork source="Contrib/Mizzou/Algebra/exponents_integers/exp_ints_14.pg"/>
+  </exercise>
+</worksheet>
